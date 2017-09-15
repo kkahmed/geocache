@@ -1,0 +1,38 @@
+This is the first of a series of educational caches with a nuclear technology theme.
+
+
+Inspired by the Commander's series of solar caches, these are placed by areas where nuclear technology is used in Madison. To find each cache, you will need to solve a vastly simplified version of a nuclear engineering problem.
+
+This one will be easier to visit on the weekend or after work hours. Parking lot 17 is free on weekends, unless there is an event at Camp Randall, in which case I would avoid this cache. Otherwise there is street parking on Broom. I set the difficulty considering both the puzzle and the hide itself together, but I can adjust depending on the first few logs.
+
+The Starting Point:
+
+The starting coordinates will place you about 15m south of the core of the University of Wisconsin Nuclear Reactor (UWNR). It is a pool-type TRIGA reactor used for research and education. UWNR is capable of 1 Megawatt full-power operation, but it can pulse (a very brief transient) up to 1 Gigawatt. The reactor uses the neutron-induced fission chain reaction of uranium-235 (U235) to produce thermal energy. It is controlled by control blades made from a neutron poison (absorber). If there are any abnormalities, these blades will fall in to the reactor, shutting it down. Students can take a class where they learn how to operate the reactor.
+
+If you're there after sundown, you might be able to look through the windows above the bike rack and see the concrete of the reactor pool - the reactor is immersed in 30ft of water for radiation shielding and heat removal. Try not to stare during school time though, there may be students in there.
+
+The Puzzle:
+
+To make sure you have visited the starting point, look at the set of 3 main doors in to the building. Each should be labeled above like so: S0w, S0y, S0z. Then calculate x = (w+y+z)/5 Edit: I've updated the process for getting x, but if you calculated it before, it's the same.
+
+Let's pretend UWNR runs constantly at a power of 1 Megawatt (MW) for x years. How many kilograms (kg) of U235 were fissioned to sustain this power for x years? Use the exact numbers I provide for you here:
+
+Nuclear fission of one U235 atom releases 215 Megaelectron-volt (MeV)
+1 Joule (J) = 6.242E12 MeV
+1 MW = 1E6 J/s
+1 U235 atom weighs 3.903E-25 kg
+There are 31536000 seconds in a year
+
+No engineering/advanced math is needed, but you need to understand units when doing multiplication/division.
+
+Your answer in kg should be of the form 1.abc...
+That's not a lot of fuel is it! Nuclear energy is extremely energy dense, especially when compared to fossil fuels. Furthermore, no greenhouse gases are released in the burning of nuclear fuel.
+
+Use (abc) like it is a 3-digit number. Calculate:
+363-abc = def
+822-abc = ghi
+
+The nano cache is at N43 04.def, W89 24.ghi
+Please replace exactly as found.
+
+You can check your answers for this puzzle on GeoChecker.com.
