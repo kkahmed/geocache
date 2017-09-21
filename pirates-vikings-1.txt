@@ -1,3 +1,118 @@
 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
   Pirates vs Vikings (Heavy Metal Cache #1)
 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+Navigate here for the playlist (you'll only need the first 8 songs):
+https://www.youtube.com/watch?v=f55CqLc6IR0&list=PL0nxFz9OjTIj05M0TbEbnxIj50sMpdKy6&index=1
+
+||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+          Pirates
+||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+Representing the pirates, we have Alestorm, probably one of the better Scottish
+Pirate Folk Metal bands out there. These guys are no stranger to fun, goofy
+songs, but always with a pirate theme. They were probably always too hammered to
+find the Lost Treasure of Mary Hyde.
+
+ALESTORM - Drink
+Considering the hobbies of Scots Folk, pirates, and folk metallers, it's no
+surprise that Alestorm like to drink, and sing about drinking. This is a popular
+music video for the story it tells. Count the number of times 'drink' is said
+before and after fiddle/accordion interlude which shows the whole cast partying
+together. Take the difference between these two values => a1. Hint: a1 is prime.
+
+ALESTORM - Mexico
+'We sail across the oceans, got drunk in many bars'
+'But when we sail to Mexico that's where we party hard!'
+Watch closely each time they show the video game. Find what the player score is
+when each of the three following phrases shows up on the screen. Each answer is
+a four or five digit number.
+  'Level 1 Complete' => b1
+  'Wash-o-meter' => b2
+  'High score' => b3
+
+The Sunk'n Norwegian (Acoustic Version)
+One of the great things about folk/melodic/symphonic metal is how well the songs
+translate to acoustic versions. I'm not sure where 'Wisconsin Way' is located,
+but you'll find The Sunk'n Norwegian there. Count the number of times the line
+'One more drink' is said before and after the accordion bridge (which also has
+a small lyrics verse of its own). The difference between these two values => c1.
+
+||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+          Vikings
+||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+INSOMNIUM - While We Sleep
+Spearheading the Vikings we have Finnish Melodic Death Metal group Insomnium,
+with a single from "Shadows of the Dying Sun". I was lucky enough to see the
+August 2017 eclipse from totality - the visuals at parts of this video portray
+the appearance pretty well. "While We Sleep" is a good intro to using harsh
+vocals as a percussive/rhythm instrument, which still carries the lyrics, but
+leaves the melody to a lead guitar - this is the crux of melodeath. Their most
+recent release, "Winter's Gate", is about a group of Vikings who set out to find
+a fabled island near Ireland, despite dangerous winter drawing near. Start with
+the number 0, then add 2 for each of the following lines that is sung with clean
+vocals, or add 1 for each sung with harsh/unclean vocals. Hint: the final answer
+should be between 6 and 12 => d1.
+  'When you reap and sow only throe and resentment'
+  'When all you feel is remorse, pain and regret'
+  'Leave all the love we had behind'
+  'When you realize that there's no point of return'
+  'When you understand you can only move onwards'
+  'We need to slow down so you can catch me'
+
+TURISAS - Stand Up And Fight
+Finland has the highest number of metal bands per capita; Barack Obama once even
+pondered if there was a correlation between this statistic and good governance.
+Finnish Symphonic Folk Metal powerhouse Turisas are named after an ancient god
+of war from Finnish mythology, and they certainly dress like it - even at shows.
+Their appearance and heavy melodic music have made them top Viking Metallers.
+Listen for a few things, and write down the minute of the song when each of the
+follow occurs (Hint: each answer will be an integer in the range 0 to 5).
+During which minute does the symphonic interlude end? => e1
+During which minute does the first chorus begin? => e2
+During which minute does frontman Mathias begin a verse with harsh vocals? => e3
+
+KORPIKLAANI - Vodka
+The Vikings look pretty serious so far, compared to the drunken pirates. Perhaps
+we can get the vikings tipsy as well? Once again we go to Finland, for one of
+the most well-known Folk Metal tunes out there, Vodka by Korpiklaani. Their name
+means 'Forest Clan', and their music has native shamanic folk roots. Count the
+number of times the line 'Drinking is good for you' is said before and after the
+accordion bridge. Take the difference between these two values => f1.
+
+ELUVEITIE - Epona
+Time for another acoustic piece. Swiss Celtic Folk Metal band Eluveitie are
+known for their vibrant and varied instrumentation. They have songs in many
+languages, including English, French, Italian, Romansh, and German, but most
+importantly the extinct ancient language Gaulish - the language of this piece.
+Their songs often cover Gaulish myths and legends. Read the video description to
+learn more about Epona, the goddess of horses, wellfare, fertility, and health.
+An easy question for this one - watch the band closely - how many women are in
+the main lineup of the band as of the time when this video was made? => g1.
+
+Wintersun - Loneliness (Winter)
+Wintersun is a Technical Progressive Symphonic Death Metal band from... you
+guessed it, Finland. This ballad is from an album with four epic pieces, each
+corresponding to a season. Their music is as grand and ambitious as their genre
+would make it seem. Frontman Jari has some of the most powerful growls in the
+business as well as robust clean vocals. Pay close attention to his voice.
+Start with the number 0, then add 1 each time any of the following lines are
+sung with clean vocals, add 2 each time any are sung with harsh vocals. Note:
+some lines may appear more than once. Keep tallying each time. Hint: your final
+answer will be between 5 and 12 => h1.
+  'I've become someone else and I can't go back, I tried'
+  'With a growing sorrow in weary eyes'
+  'Am I the one who is fading away'
+  'Hear the howling call from the other side'
+  'And one day when everything is gone'
+
+That's it! If you enjoyed any of these bands, the remaining songs in the youtube
+playlist are just suggestions for further listening.
+
+W = a1 + h1
+X = (b1 + b2 + b3 + 1)/20000 + g1
+Y = c1 + f1
+Z = d1 + e1 + e2 + e3
+
+The cache is located at N04 ==.=WX W89 ==.=YZ

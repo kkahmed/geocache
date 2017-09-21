@@ -1,3 +1,100 @@
 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
   Pirates vs Vikings (Heavy Metal Cache #2)
 ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+Navigate here for the playlist (you'll only need the first 8 songs):
+https://www.youtube.com/watch?v=hJ_eVIZkjZE&index=1&list=PL0nxFz9OjTIia4FDez21mS8ndl6Ltfgp8
+
+||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+          Pirates
+||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+Representing the pirates, we have Alestorm, probably one of the better Scottish
+Pirate Folk Metal bands out there. These guys are no stranger to fun, goofy
+songs, but always with a pirate theme. They were probably always too hammered to
+find the Lost Treasure of Mary Hyde.
+
+ALESTORM - Alestorm
+When your band consists of a bunch of drunk Scotsmen, it's no surprise that any
+music videos turn out to be lighthearted, swashbuckling adventures. This song
+spawned a lot of '_____ reacts to Alestorm' videos on youtube. Buckle up!
+Two questions for this one (Hint = they're both odd numbers):
+How many alcoholic items are on the list of what a pirate needs? => a1
+How many of Tyrion Lannister's buddies star in this video? => a2
+
+Alestorm ft. Lady Gaga - Magnetic Telephone
+Alestorm released "Magnetic North" to an unsuspecting world on August 1, 2014,
+and no one figured out the significance. Until the music video was released on
+July 29, 2015. Turns out, the song was composed to perfectly overlap "Telephone"
+with zero editing required. This fan made piece splices the two music videos.
+Under Cook'n'kill recipes, three items are listed in ounces. What is the total
+amount of ounces required of those three items? => b1.
+Under Drink'n'kill recipes, two types of rum are required. What is the total
+amount of ounces required of those two items? => b2.
+
+Over the Seas (Acoustic Version)
+Time for an acoustic sea shanty! These alternate versions of folk metal pieces
+to a good job of highlighting the variety of instruments used beyond just guitar
+and drums. There is an interlude with a trio of instrumental solos. Count the
+number of times 'over the seas' is said before and after this interlude. Take
+the difference between these two values => c1.
+
+||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+          Vikings
+||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+Ensiferum - Lai Lai Hei
+Starting off for the Vikings: Ensiferum, a Finnish Melodic Folk Metal band. With
+lyrics in both Suomi and English, traditional folk instrumentation, a name that
+means "sword bearing", and lyrics in both Finnish and English about fantastical
+Nordic stories, Ensiferum are certainly at the core of Viking Metal. Many folk
+metal pieces feature the traditional 'lai lai lai ...' chant. In this song, the
+chant is sometimes resolved with a powerful 'LAI LAI HEI!' in unison. How many
+times does this occur? => d1 Hint: it's an even number
+
+EQUILIBRIUM - Wirtshaus Gaudi
+Vikings can be German too. The Pirates were clearly obsessed with drinking, so
+we'll turn to Bavarian Folk/Black Metal band Equilibrium to show us how to
+indulge. Don't the folk instruments and tradition Germanic melodies make you
+want to visit the Essen Haus? Frontman Robert Dahn demonstrates the use of harsh
+vocals as a percussive/rhythm instrument, while other instruments take on the
+melody. Two questions for this one:
+What is the maximum number of beers Robert is shown carrying at one time? => e1
+With how many women from the trinken halle does Robert end up with his arm(s)
+around? => e2
+
+Turisas - To Holmgard And Beyond Acoustic
+Turisas is a Finnish Symphonic Folk Metal group - they sing of about Finnish
+myths and stories of battle, and they always go into shows in heavy armor and
+with painted faces. This is an acoustic version of the epic and driving song
+"To Holmgard And Beyond" from the album "The Varangian Way", which tells the
+story of Hakon and his Viking crew on their journey through Europe. Listen for
+the line 'Holmgard and Beyond' and count the number of times the line is said
+before and after the soft accordion bridge which is followed by a 'lai' chant.
+Take the difference between these two values => f1.
+
+KORPIKLAANI - A Man With A Plan
+Time for another catchy drinking shanty. Once again we turn to a Finnish group,
+Folk Metal band Korpiklaani. They started with pure folk music before adding the
+heavy guitars, which is opposite from most groups of their genre. A few times
+during this animated video, some clouds are shown moving their hands, smiling,
+and chanting along with the 'hey hey hey!'. How many total clouds do this?
+Hint: it is a multiple of four => g1.
+
+Amon Amarth - First Kill
+You can't have a collection of Viking Metal without Swedish legends Amon Amarth.
+Their lyrics often focus on Norse mythology, and their most recognizable song is
+probably "Twilight of the Thunder God". Frontman Johan Hegg will get anyone's
+blood pumping with his ridiculously monstrous growls. Watch closely: how many
+times is the personal pronoun 'I' yelled in unison and also backed up with the
+pyrotechnics in the video? => h1. Hint: it's an even number
+
+That's it! If you enjoyed any of these bands, the remaining songs in the youtube
+playlist are just suggestions for further listening.
+
+W = a1 + a2 + h1
+X = b1 + b2 + g1
+Y = c1 + f1
+Z = d1 + e1 + e2
+
+The cache is located at N04 ==.=WX W89 ==.=YZ
