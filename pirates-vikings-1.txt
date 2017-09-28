@@ -110,9 +110,14 @@ answer will be between 5 and 12 => h1.
 That's it! If you enjoyed any of these bands, the remaining songs in the youtube
 playlist are just suggestions for further listening.
 
-W = a1 + h1
-X = (b1 + b2 + b3 + 1)/20000 + g1
-Y = c1 + f1
-Z = d1 + e1 + e2 + e3
+T = a1 - d1 - 1
+U = e2 + 1
+V = c1 + e3
+X = e1 - g1
+Y = (b1 + b2 + b3 + 1)/20000
+Z = h1 + f1 - 8
 
-The cache is located at N04 ==.=WX W89 ==.=YZ
+The cache is located at N43 04.TUV W89 27.XYZ
+
+It will take you across the street from a place where you can eat and drink just
+like Alestorm. Please replace the cache just as found, to keep it out of sight.
