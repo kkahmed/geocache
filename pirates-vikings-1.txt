@@ -111,8 +111,8 @@ That's it! If you enjoyed any of these bands, the remaining songs in the youtube
 playlist are just suggestions for further listening.
 
 T = a1 - d1 - 1
-U = e2 + 1
-V = c1 + e3
+U = e2 + 3
+V = c1 + e3 - 4
 X = e1 - g1
 Y = (b1 + b2 + b3 + 1)/20000
 Z = h1 + f1 - 8
